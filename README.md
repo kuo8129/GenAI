@@ -6,3 +6,4 @@
 
   * [20250218HW_畫函數圖形](https://github.com/kuo8129/GenAI/tree/2a3ef3adde553c0e70de373c373cdbce1569a5c6/20250218HW_%E7%95%AB%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2)
   * [20250225HW_打造神經網路](https://github.com/kuo8129/GenAI/tree/2a3ef3adde553c0e70de373c373cdbce1569a5c6/20250225HW_%E6%89%93%E9%80%A0%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF)
+  * [20250304HW_解釋Cross Entropy & KL divergence](https://github.com/kuo8129/GenAI/tree/5eeae0e3ebef132329211627502678ad824bd87a/20250304HW_%E8%A7%A3%E9%87%8BCross_Entropy_%26_KL_divergence)
