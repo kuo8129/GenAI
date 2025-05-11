@@ -13,3 +13,4 @@
   * [20250408HW_打造RAG系統](https://github.com/kuo8129/GenAI/tree/5c854f12765fd47d531362e6e1d598961196b3da/20250408HW_%E6%89%93%E9%80%A0RAG%E7%B3%BB%E7%B5%B1)
   * [20250415HW_AI代理設計模式Reflection](https://github.com/kuo8129/GenAI/tree/c2d06cd4d0415697013cfab2484cd714b84d1a61/20250415HW_AI%E4%BB%A3%E7%90%86%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8FReflection)
   * [20250422HW_利用Bing進行文字生圖](https://github.com/kuo8129/GenAI/tree/f402fe2acf012ff7b96797e39e707e945e98553b/20250422HW_%E5%88%A9%E7%94%A8Bing%E9%80%B2%E8%A1%8C%E6%96%87%E5%AD%97%E7%94%9F%E5%9C%96)
+  * [20250429HW_打造Stable Diffusion的WebUI](https://github.com/kuo8129/GenAI/tree/94e112a7dd63bfd63241353dcfc7427e5591b1bb/20250429HW_%E6%89%93%E9%80%A0Stable%20Diffusion%E7%9A%84WebUI)
