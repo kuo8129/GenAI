@@ -6,3 +6,13 @@
 * 根據當前時間與天氣資訊分析適合的景點類型
 * 依地區篩選景點資訊，根據關鍵字檢索景點向量資料庫
 * 彙整地區、時間、天氣、景點資訊生成旅遊建議
+
+Colab連結：
+
+* 期末專案1　(建置景點向量資料庫)：
+  
+  https://colab.research.google.com/drive/1FwRFOJBAP-w4Wv6imTZjWyopKHRvOPi6?usp=drive_link
+  
+* 期末專案2　(打造臺灣旅遊推薦系統)：
+  
+  https://colab.research.google.com/drive/113ycaWj2JVTgP4lLMcuXYq-CAadajqwC?usp=drive_link
