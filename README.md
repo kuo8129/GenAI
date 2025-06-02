@@ -16,3 +16,4 @@
   * [20250429HW_打造Stable Diffusion的WebUI](https://github.com/kuo8129/GenAI/tree/94e112a7dd63bfd63241353dcfc7427e5591b1bb/20250429HW_%E6%89%93%E9%80%A0Stable%20Diffusion%E7%9A%84WebUI)
   * [20250506HW_使用Fooocus生成圖像](https://github.com/kuo8129/GenAI/tree/9b866a34aa301b978c6a86ef2cf620a76174ac01/20250506HW_%E4%BD%BF%E7%94%A8Fooocus%E7%94%9F%E6%88%90%E5%9C%96%E5%83%8F)
   * [20250513HW_期末專案提案](https://github.com/kuo8129/GenAI/tree/736cf6964169b1a1f0c43733cb703a22a2bb1176/20250513HW_%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88%E6%8F%90%E6%A1%88)
+  * [20250603期末專案](https://github.com/kuo8129/GenAI/tree/2531676d56517734ff4971c4db956b47e714e0f7/20250603%E6%9C%9F%E6%9C%AB%E5%B0%88%E6%A1%88)
